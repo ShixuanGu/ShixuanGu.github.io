@@ -1,6 +1,6 @@
 title: Shixuan Gu
-url: "https://shixuangu.github.io./"
-baseurl: "/researcher"
+url: "https://shixuangu.github.io."
+baseurl: "/ShixuanGu.github.io"
 
 markdown: kramdown
 # ins_logo: "./goose.jpg"
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+jekyll_url: "https://jekyllrb.com/"
+theme_url: "https://github.com/ankitsultana"
 
 sass:
     style: compressed
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "https://shixuangu.github.io."
  - name: "Resume"
    link: "CV_Shixuan_Gu.pdf"
  - name: "Contact"

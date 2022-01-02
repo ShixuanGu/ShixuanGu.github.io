@@ -54,5 +54,28 @@ Medical image analysis, 3D computer vision, machine learning, and medical roboti
 
 ## Misc.
 
+- #### *Teaching Assistant*: Artificial Intelligence and Data Science (COM SCI - 960.01: Aug'21), Research Methodologies (ENGL 902: Aug'21), Academic Writing (ENGL 901: Aug'21)
+
+  UCLA Extension, University of California, Los Angeles
+
+- #### *Programming*: Python, Pytorch, scikit-learn, C++, Javascript, HTML, PHP
+
+- #### *Tool*s: Anaconda, TensorFlow, CyberTorcs, MySQL, LaTeX
+
+
+
+
+
+<p align="right"><font size="5" ><i>"Do not go gentle into that good night."</i></font></p>
+<p align="right"> — Dylan Thomas</p>
+
+
+
+
+
+
+
+
+
 
 
