@@ -12,7 +12,7 @@ I am a Master's student in Biomedical Engineering and Computer Science at [Carne
 
 Before joining CMU, I obtained a bachelor’s degree from the [IEEE Honor Class](https://english.seiee.sjtu.edu.cn/english/info/8338.htm) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Bingbing Ni](https://scholar.google.com/citations?user=eUbmKwYAAAAJ).
 
-## Research Interest
+## Research Interests
 
 Medical image analysis, 3D computer vision, machine learning, and medical robotics.
 
