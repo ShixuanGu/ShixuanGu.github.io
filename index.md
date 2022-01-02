@@ -16,8 +16,12 @@ Medical image analysis, 3D computer vision, machine learning, and medical roboti
 
 ## Publications
 
-- RibSeg Dataset and Strong Point Cloud Baselines for Rib Segmentation from CT Scans. Jiancheng Yang * , **Shixuan Gu** *, Donglai Wei, Hanspeter Pfister, and Bingbing Ni.      	MICCAI - 2021**. [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_58)
+- RibSeg Dataset and Strong Point Cloud Baselines for Rib Segmentation from CT Scans.
 
+  Jiancheng Yang * , **Shixuan Gu** *, Donglai Wei, Hanspeter Pfister, and Bingbing Ni.
+  
+  **MICCAI - 2021**. [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_58)
+  
   
 
 ## Typography
