@@ -5,7 +5,7 @@ is_contact: true
 
 * Email: [shixuang@andrew.cmu.edu](mailto:shixuang@andrew.cmu.edu)
 
-* Phone: [+1 (412)-6946204](tel:+1-4126946204)
+* Phone: [+1 (412)-694-6204](tel:+1-4126946204)
 
 ---
 
