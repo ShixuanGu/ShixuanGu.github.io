@@ -3,7 +3,7 @@ url: "https://shixuangu.github.io./"
 baseurl: "/researcher"
 
 markdown: kramdown
-ins_logo: "./goose.jpg"
+# ins_logo: "./goose.jpg"
 
 tracking_id: #
 
