@@ -1,6 +1,6 @@
 title: Shixuan Gu
 url: "https://shixuangu.github.io."
-baseurl: "/ShixuanGu.github.io"
+baseurl: "/researcher"
 
 markdown: kramdown
 # ins_logo: "./goose.jpg"
@@ -18,7 +18,8 @@ sass:
 nav:
  - name: "About"
    link: "https://shixuangu.github.io."
- - name: "Resume"
-   link: "CV_Shixuan_Gu.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "CV"
+   link: "CV_Shixuan_Gu.pdf"
+
