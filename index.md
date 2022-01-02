@@ -66,8 +66,14 @@ Medical image analysis, 3D computer vision, machine learning, and medical roboti
 
 
 
+
+
+<br/><br/>
+
 <p align="right"><font size="5" ><i>"Do not go gentle into that good night."</i></font></p>
 <p align="right"> — Dylan Thomas</p>
+
+
 
 
 

@@ -1,6 +1,6 @@
 title: Shixuan Gu
 url: "https://shixuangu.github.io."
-baseurl: "/researcher"
+baseurl: "https://shixuangu.github.io."
 
 markdown: kramdown
 # ins_logo: "./goose.jpg"
