@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+title: Shixuan Gu
+url: "https://shixuangu.github.io./"
+baseurl: "/researcher"
+
+markdown: kramdown
+ins_logo: "./goose.jpg"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "CV_Shixuan_Gu.pdf"
+ - name: "Contact"
+   link: "contact"

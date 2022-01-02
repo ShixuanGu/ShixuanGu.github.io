@@ -1,37 +1,26 @@
-## Shixuan Gu
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/ShixuanGu/ShixuanGu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img class="profile-picture" src="sherlock.jpg">
 
-### Markdown
+I am a Master's student in Biomedical Engineering and Computer Science at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) in the [Biorobotics Lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/). Before joining CMU, I obtained a bachelor’s degree from the [IEEE Honor Class](https://english.seiee.sjtu.edu.cn/english/info/8338.htm) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Bingbing Ni](https://scholar.google.com/citations?user=eUbmKwYAAAAJ)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research Interest
 
-```markdown
-Syntax highlighted code block
+Medical image analysis, 3D computer vision, machine learning, and medical robotics.
 
-# Header 1
-## Header 2
-### Header 3
+## Publications
 
-- Bulleted
-- List
+- RibSeg Dataset and Strong Point Cloud Baselines for Rib Segmentation from CT Scans. 
 
-1. Numbered
-2. List
+  Jiancheng Yang * , **Shixuan Gu** *, Donglai Wei, Hanspeter Pfister, and Bingbing Ni.
 
-**Bold** and _Italic_ and `Code` text
+  **MICCAI - 2021**. [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_58)
 
-[Link](url) and ![Image](src)
-```
+## Typography
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShixuanGu/ShixuanGu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
