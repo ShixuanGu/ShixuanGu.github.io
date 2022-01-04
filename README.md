@@ -1,60 +1,55 @@
-# Researcher
+# Shixuan Gu's Personal Webpage
 
-### [Demo Website](http://ankitsultana.com/researcher)
+I am a Master's student in Biomedical Engineering and Computer Science at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) in the [Biorobotics Lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/).
 
-A clean, single column, monospace resume template built for jekyll
+Before joining CMU, I obtained a bachelor’s degree from the [IEEE Honor Class](https://english.seiee.sjtu.edu.cn/english/info/8338.htm) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Bingbing Ni](https://scholar.google.com/citations?user=eUbmKwYAAAAJ).
 
-### Installation
+## Research Interests
 
-Simply fork the repository and edit away.
+Medical image analysis, 3D computer vision, machine learning, and medical robotics.
 
-#### Installation via remote themes
+## Publications
 
-* Just setting `remote_theme: ankitsultana/researcher@gem` in `_config.yml` should work. Although in that case, I am not sure how
-you would build your site locally for testing. If you know how, open up an issue and let me know.
-* For more info, [refer this](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/).
+- #### RibSeg Dataset and Strong Point Cloud Baselines for Rib Segmentation from CT Scans. 
 
-### Customization
+  Jiancheng Yang *, **Shixuan Gu**\*, Donglai Wei, Hanspeter Pfister, and Bingbing Ni.
 
-* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
+  *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2021.*
 
-* You can of course remove `contact.md` if you don't want it
+  [[publication]](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_58) [[code]](https://github.com/M3DV/RibSeg) [[dataset]](https://zenodo.org/record/5336592)
 
-* To set the heading, edit the `title` variable in `_config.yml`
+## Honors
 
-* To edit the `links` mentioned on the navigation bar, you can edit `_config.yml`. For example:
+- #### **[2021] Biomedical Engineering Department Head’s Fellowship**
 
-```
-nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
-```
+  College of Engineering, Carnegie Mellon University
 
-* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
+- #### [2021] Outstanding Graduate of Shanghai Jiao Tong University
 
-* You can setup google analytics, by setting `tracking_id` in `_config.yml`
+  Shanghai Jiao Tong University
 
-* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
+- #### [2019] VEX U Skills Challenge World Champion, VEX U Division Champion
 
-```html
-<img class="profile-picture" src="sherlock.jpg">
-```
+  2019 VEX U Robotics World Championship, Robotics Education & Competition Foundation
 
-* You can remove/customize the footer as you like by setting the
-appropriate variables in `_config.yml`
+- #### [2018] VEX Robotics Create Award, Robot Skills Finalist, Silver Award
 
-* (New in v1.2.0) You can add institute logo at the top, by setting `ins_logo` in `_config.yml`. If you want
-to adjust the logo's size, try setting `max-height` in `#ins-logo` in file `./_sass/_style.scss` to the desired
-value
+  12th Asia-Pacific Robotics Championship, Asian Robotics League
 
-![Institute Logo Image Sample](https://github.com/ankitsultana/assets/raw/master/ins-logo-sample.png)
+- #### [2018] Student Ambassador, Excellent Student Presentation Award
 
-**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
+  Student Learning Festival of C9+1 Symposium, Hong Kong University
 
-### License
+- #### [2016] First Prize, Best Con in Shanghai Young Physicists' Tournament (SYPT)
 
-[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+  Shanghai Physical Society, China
+
+## Misc.
+
+- #### *Teaching Assistant*: Artificial Intelligence and Data Science (COM SCI - 960.01: Aug'21), Research Methodologies (ENGL 902: Aug'21), Academic Writing (ENGL 901: Aug'21)
+
+  UCLA Extension, University of California, Los Angeles
+
+- #### *Programming*: Python, Pytorch, scikit-learn, C++, Javascript, HTML, PHP
+
+- #### *Tool*s: Anaconda, TensorFlow, CyberTorcs, MySQL, LaTeX
