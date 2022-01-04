@@ -9,7 +9,8 @@ tracking_id: #
 
 footer: yes
 jekyll_url: "https://jekyllrb.com/"
-theme_url: "https://github.com/ankitsultana"
+theme_url: "https://github.com/ankitsultana/researcher"
+
 
 sass:
     style: compressed
