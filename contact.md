@@ -13,4 +13,5 @@ is_contact: true
 
 1. [Google Scholar](https://scholar.google.com/citations?user=x5acEMEAAAAJ&hl=zh-CN)
 2. [LinkedIn](https://www.linkedin.com/in/shixuang)
+2. [Github](https://github.com/ShixuanGu)
 
