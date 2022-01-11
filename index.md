@@ -24,7 +24,7 @@ Medical image analysis, 3D computer vision, machine learning, and medical roboti
 
   *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2021.*
 
-  [[publication]](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_58) [[code]](https://github.com/M3DV/RibSeg) [[dataset]](https://zenodo.org/record/5336592) [[poster]](./publication_info/poster_ribseg)
+  [[publication]](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_58) [[code]](https://github.com/M3DV/RibSeg) [[dataset]](https://zenodo.org/record/5336592) [[poster]](https://github.com/ShixuanGu/ShixuanGu.github.io/blob/main/publication_info/poster_ribseg.pdf)
   
   
 
