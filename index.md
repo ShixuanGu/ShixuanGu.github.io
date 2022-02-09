@@ -28,7 +28,7 @@ Medical image analysis, 3D computer vision, machine learning, and medical roboti
   
   
 
-## Honors
+## Selected Honors
 
 - #### **[2021] Biomedical Engineering Department Head’s Fellowship**
 
@@ -53,6 +53,8 @@ Medical image analysis, 3D computer vision, machine learning, and medical roboti
 - #### [2016] First Prize, Best Con in Shanghai Young Physicists' Tournament (SYPT)
 
   Shanghai Physical Society, China
+  
+  
 
 ## Misc.
 
