@@ -1,4 +1,4 @@
-# Shixuan Gu's Personal Webpage
+# [Shixuan Gu's Personal Webpage](https://shixuan-gu.me)
 
 I am a Master's student in Biomedical Engineering and Computer Science at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) in the [Biorobotics Lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/).
 
