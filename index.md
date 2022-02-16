@@ -14,7 +14,7 @@ Before joining CMU, I obtained a bachelor’s degree from the [IEEE Honor Class]
 
 ## Research Interests
 
-Medical image analysis, 3D computer vision, machine learning, and medical robotics.
+Healthcare AI, medical image analysis, 3D computer vision, machine learning, and medical robotics.
 
 ## Publications
 
@@ -56,6 +56,22 @@ Medical image analysis, 3D computer vision, machine learning, and medical roboti
   
   
 
+## Talks
+
+- #### Geometric Deep Learning: from (Bio)Medical Dataset Building  to Downstream Applications
+
+  Robotics Institute, Carnegie Mellon University
+
+  [[slide]](https://github.com/ShixuanGu/ShixuanGu.github.io/blob/main/talk_info/deep_dive.pdf)
+
+- #### *Bachelor Defense:* Rib Segmentation and Centerline Extraction via Geometric Deep Learning
+
+  Department of Computer Science, Shanghai Jiao Tong University
+
+  [[slide]](https://github.com/ShixuanGu/ShixuanGu.github.io/blob/main/talk_info/Bachelor_defense.pdf)
+
+  
+
 ## Misc.
 
 - #### *Teaching Assistant*: Artificial Intelligence and Data Science (COM SCI - 960.01: Aug'21), Research Methodologies (ENGL 902: Aug'21), Academic Writing (ENGL 901: Aug'21)
@@ -66,7 +82,9 @@ Medical image analysis, 3D computer vision, machine learning, and medical roboti
 
 - #### *Tool*s: Anaconda, TensorFlow, CyberTorcs, MySQL, LaTeX
 
+- #### Hobbies: I'm an amateur baker, advised by [Prof. Jiawei Li](https://sites.google.com/view/jiawei-li).
 
+  ### 
 
 
 
