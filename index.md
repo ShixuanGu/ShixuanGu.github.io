@@ -84,7 +84,6 @@ Healthcare AI, medical image analysis, 3D computer vision, machine learning, and
 
 - #### Hobbies: I'm an amateur baker, advised by [Prof. Jiawei Li](https://sites.google.com/view/jiawei-li).
 
-  ### 
 
 
 
