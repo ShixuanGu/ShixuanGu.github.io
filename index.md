@@ -8,13 +8,13 @@ layout: default
 
 
 
-I am a Master's student in Biomedical Engineering and Computer Science at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) in the [Biorobotics Lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/).
+I am a Master's student in Biomedical Engineering and Computer Science at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) in the [Biorobotics Lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/). I am now a visiting research fellow in the [Visual Computing Group](https://vcg.seas.harvard.edu/) at Harvard University, working with [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people) and [Prof. Donglai Wei](https://donglaiw.github.io/).
 
 Before joining CMU, I obtained a bachelor’s degree from the [IEEE Honor Class](https://english.seiee.sjtu.edu.cn/english/info/8338.htm) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Bingbing Ni](https://scholar.google.com/citations?user=eUbmKwYAAAAJ).
 
 ## Research Interests
 
-Healthcare AI, medical image analysis, 3D computer vision, machine learning, and medical robotics.
+Geometric deep learning, biomedical image analysis, 3D computer vision, machine learning, and medical robotics.
 
 ## Publications
 
