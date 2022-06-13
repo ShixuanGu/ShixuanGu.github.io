@@ -82,7 +82,7 @@ Geometric deep learning, biomedical image analysis, 3D computer vision, machine 
 
 - #### *Tool*s: Anaconda, TensorFlow, CyberTorcs, MySQL, LaTeX
 
-- #### Hobbies: I'm an amateur baker, advised by [Prof. Jiawei Li](https://sites.google.com/view/jiawei-li).
+- #### Hobbies: basketball, guitar, and cooking
 
 
 
