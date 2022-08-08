@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 # [Shixuan Gu's Personal Webpage](https://shixuan-gu.me)
-=======
-# peers
->>>>>>> e558e7cec15971d89885f15c08de191f4a131e58
+I am a Master's student in Biomedical Engineering and Computer Science at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), advised by Prof. [Howie Choset](http://www.cs.cmu.edu/~choset/) in the [Biorobotics Lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/). I am now a visiting research fellow in the [Visual Computing Group](https://vcg.seas.harvard.edu/) at [Harvard University](https://www.harvard.edu/), advised by Prof. [Hanspeter Pfister](https://vcg.seas.harvard.edu/people) and Prof. [Donglai Wei](https://donglaiw.github.io/).
+
+Before joining [CMU](https://www.cmu.edu/), I obtained a bachelor’s degree from the [IEEE Honor Class](https://english.seiee.sjtu.edu.cn/english/info/8338.htm) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), where I was privileged to work under Prof. [Bingbing Ni](https://scholar.google.com/citations?user=eUbmKwYAAAAJ) and Dr. [Jiancheng Yang](https://jiancheng-yang.com/).
