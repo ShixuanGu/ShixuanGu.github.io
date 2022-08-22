@@ -160,7 +160,7 @@ function getNews(id) {
       clickme("BBC", MOSCULP_BBC);
       break;
     case "vex2019_award":
-      clickable("2019 VEX U Skills Challenge World Champion, VEX U Division Champion, and World Finalist", VEXU_WORLD_CHAMPION2019);
+      clickable("VEX U Skills Challenge World Champion, VEX U Division Champion, and World Finalist", VEXU_WORLD_CHAMPION2019);
       break;
     case "vex2019_event":
       clickable("2019 VEX U Robotics World Championship", VEXU_WORLD_CHAMPION2019);
@@ -168,6 +168,11 @@ function getNews(id) {
     case "vex2018_china_event":
       clickable("2018 China National VEX Robotics Competition", VEXU_CHINA_CHAMPION2018);
       break;
+    case "vex2018_china_award":
+      clickable("Nomination for Excellence Award, Amaze Award, Tournament Semifinalists", VEXU_CHINA_CHAMPION2018);
+      break;
+
+      
     default:
       undef();
   }
