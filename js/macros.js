@@ -81,6 +81,10 @@ function getPerson(id) {
     case "dylan":
       clickable("Dylan Thomas", "https://en.wikipedia.org/wiki/Dylan_Thomas");
       break;     
+    
+    case "chuntao":
+      clickable("Chuntao Leng", "https://robolab.sjtu.edu.cn/CN/show.aspx?infolb=55&infoid=83&flag=6");
+      break;  
       
     default:
       undef();
@@ -148,7 +152,9 @@ function getAffli(id) {
     case "ucla_extension":
       clickable("UCLA Extension", "https://www.uclaextension.edu/");
       break;
-      
+    case "sjtu_irl":
+      clickable("Intelligent Robot Laboratory", "https://robolab.sjtu.edu.cn/EN/Default.aspx");
+      break;      
     default:
       undef();
   }
@@ -169,7 +175,7 @@ function getNews(id) {
       clickable("2018 China National VEX Robotics Competition", VEXU_CHINA_CHAMPION2018);
       break;
     case "vex2018_china_award":
-      clickable("Nomination for Excellence Award, Amaze Award, Tournament Semifinalists", VEXU_CHINA_CHAMPION2018);
+      clickable("Nomination for Excellence Award, Amaze Award, and Tournament Semifinalists", VEXU_CHINA_CHAMPION2018);
       break;
 
       
