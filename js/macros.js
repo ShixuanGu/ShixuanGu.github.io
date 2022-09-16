@@ -49,7 +49,7 @@ function getPerson(id) {
       document.write("<u>Shixuan Gu</u>");
       break;
     case "choset":
-        clickable("Howie Choset", "http://www.cs.cmu.edu/~choset/");
+        clickable("Howie Choset", "https://www.ri.cmu.edu/ri-faculty/howie-choset/");
         break;
     case "hanspeter":
       clickable("Hanspeter Pfister", "https://vcg.seas.harvard.edu/people");
@@ -86,6 +86,10 @@ function getPerson(id) {
       clickable("Chuntao Leng", "https://robolab.sjtu.edu.cn/CN/show.aspx?infolb=55&infoid=83&flag=6");
       break;  
       
+    case "jessica":
+      clickable("Jessica Zhang", "https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html");
+      break;  
+
     default:
       undef();
   }
@@ -126,7 +130,7 @@ function getAffli(id) {
       clickable("CMU", "https://www.cmu.edu/");
       break;
     case "biorobotics":
-      clickable("Biorobotics Lab", "https://www.ri.cmu.edu/robotics-groups/biorobotics/");
+      clickable("Biorobotics Lab", "http://biorobotics.ri.cmu.edu/");
       break;
     case "vcg":
       clickable("Visual Computing Group", "https://vcg.seas.harvard.edu/");
@@ -155,6 +159,9 @@ function getAffli(id) {
     case "sjtu_irl":
       clickable("Intelligent Robot Laboratory", "https://robolab.sjtu.edu.cn/EN/Default.aspx");
       break;      
+    case "cbml":
+      clickable("Computational Bio-Modeling Lab", "https://www.meche.engineering.cmu.edu/faculty/zhang-computational-bio-modeling-lab.html");
+      break;  
     default:
       undef();
   }
