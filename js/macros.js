@@ -89,6 +89,18 @@ function getPerson(id) {
     case "jessica":
       clickable("Jessica Zhang", "https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html");
       break;  
+    
+    case "kuanren":
+      clickable("Kuanren Qian", "https://scholar.google.com/citations?user=WL7ER_cAAAAJ&hl=en");
+      break; 
+
+    case "ashlee":
+      clickable("Ashlee Liao", "https://www.linkedin.com/in/ashlee-liao/");
+      break; 
+
+    case "victoria":
+      clickable("Victoria Webster-Wood", "https://www.meche.engineering.cmu.edu/directory/bios/webster-wood-victoria.html");
+      break; 
 
     default:
       undef();
