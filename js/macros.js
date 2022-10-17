@@ -210,7 +210,9 @@ function paper(link) {
 function dataset(link) {
   text_button("dataset", link);
 }
-
+function preprint(link) {
+  text_button("preprint", link);
+}
 function poster(link) {
   text_button("poster", link);
 }
