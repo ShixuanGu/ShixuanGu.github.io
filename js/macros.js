@@ -48,6 +48,15 @@ function getPerson(id) {
     case "me":
       document.write("<u>Shixuan Gu</u>");
       break;
+      
+    case "misha":
+      clickable("Mikhail Bessmeltsev", "http://www-labs.iro.umontreal.ca/~bmpix/");
+      break;
+
+    case "danielharvard":
+      clickable("Daniel	Berger", "https://lichtmanlab.fas.harvard.edu/people/daniel-berger");
+      break;
+
     case "choset":
         clickable("Howie Choset", "https://www.ri.cmu.edu/ri-faculty/howie-choset/");
         break;
