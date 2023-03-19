@@ -181,7 +181,7 @@ function getAffli(id) {
       clickable("Intelligent Robot Laboratory", "https://robolab.sjtu.edu.cn/EN/Default.aspx");
       break;      
     case "cbml":
-      clickable("Computational Bio-Modeling Lab", "https://www.meche.engineering.cmu.edu/faculty/zhang-computational-bio-modeling-lab.html");
+      clickable("Computational Bio-Modeling Lab", "https://www.andrew.cmu.edu/user/jessicaz/");
       break;  
     default:
       undef();
