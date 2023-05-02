@@ -96,7 +96,7 @@ function getPerson(id) {
       break;  
       
     case "jessica":
-      clickable("Jessica Zhang", "https://www.meche.engineering.cmu.edu/directory/bios/zhang-yongjie.html");
+      clickable("Jessica Zhang", "https://www.andrew.cmu.edu/user/jessicaz/");
       break;  
     
     case "kuanren":
