@@ -454,11 +454,12 @@ $size-header: 23em;
 		}
 		
 		&.avatar {
-			border-radius: 100%;
+			// border-radius: 100%;
+			display: block;
 			overflow: hidden;
 			
 			img {
-				border-radius: 100%;
+				// border-radius: 100%;
 				display: block;
 				width: 100%;
 			}

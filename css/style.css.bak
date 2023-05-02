@@ -483,12 +483,13 @@
     }
 
     .image.avatar {
-        border-radius: 100%;
+        #border-radius: 100%;
+        display: block;
         overflow: hidden;
     }
 
     .image.avatar img {
-        border-radius: 100%;
+        #border-radius: 100%;
         display: block;
         width: 100%;
     }
