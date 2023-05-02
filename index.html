@@ -44,7 +44,22 @@
       <!-- Header -->
       <section id="header" class="skel-layers-fixed">
         <header>
-          <span class="image avatar"><img src="images/avatars/2021_grad2.jpg" alt="" /></span>
+          <span class="image avatar"><img id="randomImage" src="" alt="" /></span>
+          <script>
+            var imageUrls = [
+              "images/avatars/ava1.jpg",
+              "images/avatars/ava2.jpg",
+              "images/avatars/ava3.jpg",
+              "images/avatars/ava4.jpg",
+              "images/avatars/ava5.jpg",
+              "images/avatars/ava6.jpg"
+            ];
+            var randomIndex = Math.floor(Math.random() * imageUrls.length);
+            var randomImageUrl = imageUrls[randomIndex];
+            document.getElementById("randomImage").src = randomImageUrl;
+          </script>
+          
+          <!-- <span class="image avatar"><img src="images/avatars/2021_grad2.jpg" alt="" /></span> -->
           <!-- <span class="image avatar"><img src="images/avatars/2021_grad.jpg" alt="" /></span> -->
           <h1>Shixuan Gu</h1>
         </header>

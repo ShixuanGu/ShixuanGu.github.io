@@ -516,6 +516,17 @@ input[type="radio"] + label:before {
 }
 
 .image.avatar {
+    /* border-radius: 100%; */
+    overflow: hidden;
+}
+
+.image.avatar img {
+    /* border-radius: 100%; */
+    display: block;
+    width: 100%;
+}
+
+/* .image.avatar {
     border-radius: 100%;
     overflow: hidden;
 }
@@ -524,7 +535,7 @@ input[type="radio"] + label:before {
     border-radius: 100%;
     display: block;
     width: 100%;
-}
+} */
 
 /* List */
 
