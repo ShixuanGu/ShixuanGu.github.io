@@ -9,6 +9,11 @@
     <link rel="shortcut icon" href="./images/gu.ico"/>
     <title>Shixuan Gu</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <style>
+      body {
+        zoom: 80%;
+      }
+    </style>
     <meta name="description" content="Research portofolio of Shixuan Gu, a Master student at Carnegie Mellon Univerisity." />
     <meta name="keywords" content="Shixuan Gu, Shixuan, Adobe, Massachusetts Institute of Technology,MIT,Computer Science and Artificial Intelligence Laboratory,CSAIL,Shanghai Jiao Tong Univerisity, SJTU, IEEE Honor Class, 顾诗轩, computer vision,vision, computer graphics, graphics, machine learning,connectomics, medical rotbotics" />
 
@@ -44,7 +49,23 @@
       <!-- Header -->
       <section id="header" class="skel-layers-fixed">
         <header>
-          <span class="image avatar"><img src="images/avatars/2021_grey.jpg" alt="" /></span>
+          <span class="image avatar"><img id="randomImage" src="" alt="" /></span>
+          <script>
+            var imageUrls = [
+              "images/avatars/ava1.jpg",
+              "images/avatars/ava2.jpg",
+              "images/avatars/ava3.jpg",
+              "images/avatars/ava4.jpg",
+              "images/avatars/ava5.jpg",
+              "images/avatars/ava6.jpg",
+              "images/avatars/ava7.jpg",
+              "images/avatars/ava8.jpg",
+            ];
+            var randomIndex = Math.floor(Math.random() * imageUrls.length);
+            var randomImageUrl = imageUrls[randomIndex];
+            document.getElementById("randomImage").src = randomImageUrl;
+          </script>
+          
           <!-- <span class="image avatar"><img src="images/avatars/2021_grad2.jpg" alt="" /></span> -->
           <!-- <span class="image avatar"><img src="images/avatars/2021_grad.jpg" alt="" /></span> -->
           <h1>Shixuan Gu</h1>
@@ -70,7 +91,6 @@
 
       <!-- Main -->
       <div id="main">
-
         <!-- About -->
         <section id="one">
           <div class="container">
@@ -91,7 +111,7 @@
                 I also build robots for competition events and medical usage.        
                 [<a href="pages/robots.html" target='_blank'>Check the robots I built. <b class="icon fa-solid fa-robot"></b></a>]
               </p>
-              <h4>News.</h4>
+              <h4>News</h4>
               <p style="height:80px;overflow-y:auto">
               [05/2023] Graduated from CMU.
               <br>
@@ -368,7 +388,7 @@
             <br>
             <b>Tools:</b> Python, Pytorch, C++, ITK, CyberTorcs, RobotC, SolidWorks, Javascript, HTML, etc.
             <br>
-            <b>Hobbies:</b> physics, robotics competition, basketball, literature, guitar, and cooking.
+            <b>Hobbies:</b> physics, robotics competition, csgo (rank Global Elite), <script>clickable("literature", "https://mp.weixin.qq.com/s/IUU23NSs4_zOs1ZM1reWnA");</script>, guitar, and cooking.
             <br>
           </div>
         </section>
@@ -378,11 +398,20 @@
             <!-- <h4 ><i>"Do not go gentle into that good night."&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </i></h4> -->
             <h4 ><i>"The ball I threw while playing in the park&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</i></h4>
             <h4 ><i>Has not yet reached the ground."&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </i></h4>
-            
+  
             <footer class="blockquote-footer"> — <script>getPerson("dylan");</script> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</footer>
+          </div>
+
+          <div class="container">
+            <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5m6s4ftroci&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;s=200&amp;bv=100" async="async"></script>
           </div>
         </section>
 
+        <!-- <section id="tracker">
+        <div class="container">
+          <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=292&t=tt&d=ismEp4gv2k8gK9YwgOzKXv0PFY4doMDVIt9tCTCpTlY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+        </div>
+        </section> -->
       </div>
 
       <!-- <blockquote class="blockquote text-right">
