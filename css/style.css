@@ -485,6 +485,7 @@ input[type="radio"] + label:before {
     border: 0;
     display: inline-block;
     position: relative;
+    overflow: hidden;
 }
 
 .image img {
@@ -524,6 +525,7 @@ input[type="radio"] + label:before {
     /* border-radius: 100%; */
     display: block;
     width: 100%;
+    overflow: hidden;
 }
 
 /* .image.avatar {
@@ -1018,6 +1020,7 @@ input[type="button"]:disabled,
     display: block;
     margin: 0 auto 2.25em auto;
     width: 10em;
+    overflow: hidden;
 }
 
 #header > header h1 {
