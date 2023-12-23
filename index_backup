@@ -14,8 +14,8 @@
         zoom: 80%;
       }
     </style>
-    <meta name="description" content="Research portofolio of Shixuan Gu, a Master student at Carnegie Mellon Univerisity." />
-    <meta name="keywords" content="Shixuan Gu, Shixuan, Adobe, Massachusetts Institute of Technology,MIT,Computer Science and Artificial Intelligence Laboratory,CSAIL,Shanghai Jiao Tong Univerisity, SJTU, IEEE Honor Class, 顾诗轩, computer vision,vision, computer graphics, graphics, machine learning,connectomics, medical rotbotics" />
+    <meta name="description" content="Research portofolio of Shixuan Gu, a Master student at Carnegie Mellon University." />
+    <meta name="keywords" content="Shixuan Gu, Shixuan, Harvard, Visual Computing Group, Robotics Institute, CMU, Carnegie Mellon University,Shanghai Jiao Tong University, SJTU, IEEE Honor Class, 顾诗轩, computer vision, 3d vision, medical image analysis, machine learning, connectomics, medical rotbotics" />
 
     <!-- NOTE: REMOVE THIS BLOCK OR REPLACE IT WITH YOUR OWN ANALYTICS BLOCK! -->
     <!-- OTHERWISE, YOUR TRAFFIC DATA WILL SHOW UP ON MY ANALYTICS DASHBOARD. -->
@@ -52,14 +52,16 @@
           <span class="image avatar"><img id="randomImage" src="" alt="" /></span>
           <script>
             var imageUrls = [
-              "images/avatars/ava1.jpg",
-              "images/avatars/ava2.jpg",
-              "images/avatars/ava3.jpg",
-              "images/avatars/ava4.jpg",
-              "images/avatars/ava5.jpg",
-              "images/avatars/ava6.jpg",
-              "images/avatars/ava7.jpg",
-              "images/avatars/ava8.jpg",
+              // "images/avatars/ava1.jpg",
+              // "images/avatars/ava2.jpg",
+              // "images/avatars/ava3.png",
+              // "images/avatars/ava4.jpg",
+              // "images/avatars/ava5.jpg",
+              // "images/avatars/ava6.jpg",
+              // "images/avatars/ava7.jpg",
+              // "images/avatars/ava8.jpg",
+              // "images/avatars/ava9.jpg",
+              "images/avatars/ava.jpg"
             ];
             var randomIndex = Math.floor(Math.random() * imageUrls.length);
             var randomImageUrl = imageUrls[randomIndex];
@@ -68,7 +70,7 @@
           
           <!-- <span class="image avatar"><img src="images/avatars/2021_grad2.jpg" alt="" /></span> -->
           <!-- <span class="image avatar"><img src="images/avatars/2021_grad.jpg" alt="" /></span> -->
-          <h1>Shixuan Gu</h1>
+          <h1>Shixuan (Leslie) Gu</h1>
         </header>
         <nav id="nav">
           <ul>
@@ -98,11 +100,16 @@
               <h3>About</h3>
             </header>
             <p>
-              I am a Master's student at <script>getAffli("cmu");</script>, advised by <b style="color:#A31F34";>Prof. <script>getPerson("jessica");</script></b> and <b style="color:#A31F34";>Prof. <script>getPerson("choset");</script></b>. I was a visiting research fellow in the <b style="color:#A31F34";><script>getAffli("vcg");</script></b> at <script>getAffli("harvard");</script>, advised by <b style="color:#A31F34";>Prof. <script>getPerson("hanspeter");</script></b> and <b style="color:#A31F34";>Prof. <script>getPerson("donglai");</script></b>. Before joining <script>getAffli("cmu_short");</script>, I obtained a bachelor’s degree from the <b style="color:#A31F34";><script>getAffli("ieee_class");</script></b> at <script>getAffli("sjtu");</script>, where I was privileged to work with <b style="color:#A31F34";>Prof. <script>getPerson("bingbing");</script></b> and <b style="color:#A31F34";>Dr. <script>getPerson("jiancheng");</script></b>.
+              I'm a first-year Ph.D. student in Computer Science at <script>getAffli("harvard");</script>, advised by <b style="color:#A31F34";>Prof. <script>getPerson("hanspeter");</script></b>. 
+              
+              
+              Previsouly, I obtained M.S. in Biomedical Engineering from <script>getAffli("cmu");</script>, working with <b style="color:#A31F34";>Prof. <script>getPerson("jessica");</script></b> and <b style="color:#A31F34";>Prof. <script>getPerson("choset");</script></b>. 
+              
+              I was a visiting research fellow in the <b style="color:#A31F34";><script>getAffli("vcg");</script></b>, working with <b style="color:#A31F34";>Prof. <script>getPerson("donglai");</script></b>.          
+              Before joining <script>getAffli("cmu_short");</script>, I received B.S. in Computer Science from the <b style="color:#A31F34";><script>getAffli("ieee_class");</script></b> at <script>getAffli("sjtu");</script>, where I was privileged to work with <b style="color:#A31F34";>Prof. <script>getPerson("bingbing");</script></b> and <b style="color:#A31F34";>Dr. <script>getPerson("jiancheng");</script></b>.
             <p>
             <a href="docs/cv.pdf" target='_blank' class="button alt icon fa-file-pdf-o small">CV</a>
-            <a href="mailto:shixuang@andrew.cmu.edu" target='_blank' class="button alt icon fa-envelope-o small">shixuang@andrew.cmu.edu</a>
-            <a class="button unclickable icon fa-graduation-cap small">I'll be joining Harvard as a Ph.D. student this fall.</a>
+            <a href="mailto:shixuangu@g.harvard.edu" target='_blank' class="button alt icon fa-envelope-o small">shixuangu@g.harvard.edu</a>
             </p>
 
             <h4>Research Topics</h4>
@@ -112,10 +119,14 @@
                 [<a href="pages/robots.html" target='_blank'>Check the robots I built. <b class="icon fa-solid fa-robot"></b></a>]
               </p>
               <h4>News</h4>
-              <p style="height:80px;overflow-y:auto">
+              <p style="height:120px;overflow-y:auto">
+              [09/2023] <a href="https://arxiv.org/abs/2210.09309" target='_blank'>RibSeg v2</a> is accecpted by IEEE TMI.
+              <br>
+              [06/2023] One paper on <a href="https://arxiv.org/abs/2304.11306" target='_blank'>neuron growth simulation</a> is accecpted by CMAME.
+              <br>
               [05/2023] Graduated from CMU.
               <br>
-              [03/2023] Accepted the Ph.D. offer from Harvard.
+              [03/2023] I'll be joining Harvard as a Ph.D. student this fall.
               </p>
           </div>
         </section>
@@ -173,7 +184,7 @@
                     <script>getPerson("hanspeter");</script>,
                     <script>getPerson("donglai");</script>
                     <br>
-                    <b>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023, (under review)</b>
+                    <b>manuscript in preparation</b>
                   </div>
                 </article>
 
@@ -182,7 +193,7 @@
                     <img src="images/pub/2022_tmi_ribseg.png"/>
                   </div>
                   <div class="inner">
-                    <script>preprint("https://arxiv.org/abs/2210.09309");</script>
+                    <script>paper("https://arxiv.org/abs/2210.09309");</script>
                     <script>code("https://github.com/M3DV/RibSeg");</script>
                     <script>dataset("https://zenodo.org/record/5336592");</script>
                     <br>
@@ -200,7 +211,7 @@
                     <script>getPerson("mingli");</script>,
                     <script>getPerson("bingbing");</script>
                     <br>
-                    <b>IEEE Transactions on Medical Imaging (IEEE TMI), 2023, (under revision)</b>
+                    <b>IEEE Transactions on Medical Imaging (IEEE TMI), 2023</b>
                   </div>
                 </article>
 
@@ -209,7 +220,7 @@
                     <img src="images/pub/2023_neugrowth_3.png"/>
                   </div>
                   <div class="inner">
-                    <script>preprint("https://arxiv.org/abs/2304.11306");</script>
+                    <script>paper("https://arxiv.org/abs/2304.11306");</script>
                     <script>code("https://github.com/CMU-CBML/FDNGCNN");</script> 
                     <br>
                     <b>Biomimetic IGA neuron growth model with neurite morphometric features and CNN-based prediction</b>
@@ -220,7 +231,7 @@
                     <script>getPerson("victoria");</script>,
                     <script>getPerson("jessica");</script>
                     <br>
-                    <b>Computer Methods in Applied Mechanics and Engineering (CMAME), 2023, (under review)</b>
+                    <b>Computer Methods in Applied Mechanics and Engineering (CMAME), 2023</b>
                   </div>
                 </article>
 
@@ -394,37 +405,11 @@
         </section>
 
         <section id="quote">
-          <div style="text-align:right">
-            <!-- <h4 ><i>"Do not go gentle into that good night."&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </i></h4> -->
-            <h4 ><i>"The ball I threw while playing in the park&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</i></h4>
-            <h4 ><i>Has not yet reached the ground."&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </i></h4>
-  
-            <footer class="blockquote-footer"> — <script>getPerson("dylan");</script> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</footer>
-          </div>
-
-          <div class="container">
-            <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5m6s4ftroci&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;s=200&amp;bv=100" async="async"></script>
-          </div>
+            <div style="text-align: right;"><h4 ><i>"The ball I threw while playing in the park&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</i></h4>
+              <h4 ><i>Has not yet reached the ground."&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </i></h4>
+              <footer class="blockquote-footer"> — <script>getPerson("dylan");</script> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</footer></div>
         </section>
-
-        <!-- <section id="tracker">
-        <div class="container">
-          <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=292&t=tt&d=ismEp4gv2k8gK9YwgOzKXv0PFY4doMDVIt9tCTCpTlY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
-        </div>
-        </section> -->
       </div>
-
-      <!-- <blockquote class="blockquote text-right">
-        <i>"When I waked, I cried to dream again."</i>
-        <footer class="blockquote-footer">
-            <cite>
-                <a href="https://en.wikipedia.org/wiki/The_Tempest" target="_blank">
-                    The Tempest
-                </a>
-            </cite>
-            (William Shakespeare)
-        </footer>
-      </blockquote> -->
 
       <!-- Footer -->
       <section id="footer">
@@ -436,6 +421,7 @@
             <li><script>clickable("Accessibility", "https://accessibility.mit.edu/");</script></li>
           </ul>
         </div>
+        <div style="text-align:center;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5erhj5o908r&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script></div>
       </section>
 
     </div>
