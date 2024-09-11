@@ -85,7 +85,7 @@ function getPerson(id) {
       clickable("Jason Ken Adhinarta", "https://jasonkena.github.io/");
       break;  
     case "jeffharvard":
-      clickable("Jeff W. Lichtman", "https://lichtmanlab.fas.harvard.edu/people/jeff-lichtman");
+      clickable("Jeff Lichtman", "https://lichtmanlab.fas.harvard.edu/people/jeff-lichtman");
       break;     
     case "dylan":
       clickable("Dylan Thomas", "https://en.wikipedia.org/wiki/Dylan_Thomas");
