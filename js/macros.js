@@ -50,7 +50,7 @@ function getPerson(id) {
       break;
       
     case "leslie":
-        document.write("<u>Shixuan Leslie Gu</u>");
+        document.write("<u>Leslie Gu</u>");
         break;
     case "misha":
       clickable("Mikhail Bessmeltsev", "http://www-labs.iro.umontreal.ca/~bmpix/");
