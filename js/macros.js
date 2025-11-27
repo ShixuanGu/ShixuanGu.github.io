@@ -60,6 +60,10 @@ function getPerson(id) {
       clickable("Daniel	Berger", "https://lichtmanlab.fas.harvard.edu/people/daniel-berger");
       break;
 
+    case "deqing":
+      clickable("Deqing Sun", "https://deqings.github.io/");
+      break;
+
     case "choset":
         clickable("Howie Choset", "https://www.ri.cmu.edu/ri-faculty/howie-choset/");
         break;
